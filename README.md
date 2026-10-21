@@ -10,12 +10,7 @@ Welcome to the **Medical Cost & Risk Profiling** notebook! This interactive syst
 
 ---
 
-<div align="center">
-  <a href="#d901f46e" style="text-decoration:none;">
-    <button style="background-color:#c0392b; border:none; color:white; padding:12px 28px; text-align:center; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px; font-weight:bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.3s;">
-      Jump to Interactive Predictor 🔎
-    </button>
-  </a>
-</div>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com](https://colab.research.google.com/drive/1hFi_DZSdEpNXLD4wnRXgYn_4UqKUT977#scrollTo=b929a968))
 
 ---
