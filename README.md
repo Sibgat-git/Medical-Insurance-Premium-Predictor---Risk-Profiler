@@ -11,6 +11,5 @@ Welcome to the **Medical Cost & Risk Profiling** notebook! This interactive syst
 ---
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com](https://colab.research.google.com/drive/1hFi_DZSdEpNXLD4wnRXgYn_4UqKUT977#scrollTo=b929a968))
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hFi_DZSdEpNXLD4wnRXgYn_4UqKUT977#scrollTo=b929a968)
 ---
