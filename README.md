@@ -2,7 +2,7 @@
 
 An interactive machine learning pipeline that predicts medical charges and classifies patient risk based on demographic and clinical factors. This project implements linear regression with custom feature engineering, logistic regression classifier for smoking detection, and interactive slider calculators built using Jupyter widgets.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sibgat-git/Medical-Insurance-Premium-Predictor/blob/main/Medical_Insurance_Premium_Predictor_.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hFi_DZSdEpNXLD4wnRXgYn_4UqKUT977#scrollTo=d6201c4b)
 
 ## Key Insights & Business Findings
 - **The Obesity-Smoking Multiplier**: Having both a BMI $\ge$ 30 and being a smoker compounds risk dramatically. The high-risk group faces extreme costs with a historical median charge exceeding **$40,900**.
