@@ -1,4 +1,4 @@
-# Medical Insurance Premium Predictor & Risk Stratifier
+# Medical Insurance Premium Predictor & Risk Profiler
 
 An interactive machine learning pipeline that predicts medical charges and classifies patient risk based on demographic and clinical factors. This project implements linear regression with custom feature engineering, logistic regression classifier for smoking detection, and interactive slider calculators built using Jupyter widgets.
 
